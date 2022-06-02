@@ -1,4 +1,4 @@
-<img src="https://github.com/legends-game/legends-game.github.io/blob/master/lsg-head.png">
+<img src="https://raw.githubusercontent.com/legends-game/legends-game.github.io/master/lsg-head.png">
 
 你好！欢迎和我们一起玩游戏！
 我们是LSG
