@@ -1,0 +1,21 @@
+# 项目说明
+此项目为LSG(Legends Gaming)提供了首页。感谢github pages为此项目提供技术支持！
+
+欢迎访问：
+https://legends-gaming.github.io
+
+## 关于index.html
+这个页面是网站的主页。
+主页一开始尝试用markdown写过，但是后来还是尝试直接用html写了。
+
+## 关于news.html
+这个页面是LSG的新闻发布页面。
+这个页面是用markdown写的，然后导出成html，感谢<a href = "https://github.com/yzhang-gh/vscode-markdown">Markdown All in One</a>项目！
+如果后续更新准备不用md导出news页面了那就把news.md归档吧。、
+
+## 关于图片
+图片目前都放在了index.files文件夹内，但是直接用github的服务器的话会出现国内的浏览器加载不出图像的情况。
+尝试白嫖微博的服务器，但是遇到了403错误。
+<a href = "https://github.com/Wlzza">甩葱</a>发现了<a href = "https://gejiba.com/">老王图床</a>这个网站，可以专门上传图片供外链使用。
+然后发现用户上传的除了图片以外还有各种乱七八糟的东西，包括但不限于.apk文件...
+后续应该会把图片上传到这个网站。
