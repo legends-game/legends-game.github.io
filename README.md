@@ -6,10 +6,11 @@ https://legends-gaming.github.io
 
 ## 关于index.html
 这个页面是网站的门面。
-主页一开始尝试用markdown写过，但是后来还是尝试直接用html写了。
+没有设置自动跳转
 
 ## 关于mainpage.html
 这个才是真正的主页..
+主页一开始尝试用markdown写过，但是后来还是尝试直接用html写了。
 
 ## 关于news.html
 这个页面是LSG的新闻发布页面。

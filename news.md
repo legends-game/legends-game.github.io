@@ -1,3 +1,7 @@
+## 2022年6月18日
+<p>恭喜： 奶奶常说15投吧 重返白金！</p>
+<img src = "https://img.gejiba.com/images/e78d004f603f6a6f6d7fb5fb545d62bb.png">
+
 ## 2022年6月6号
 阿雨新电脑到了！恭喜雨宝！
 <div style='text-align:center;'>
