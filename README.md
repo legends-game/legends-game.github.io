@@ -6,16 +6,14 @@ https://legends-gaming.github.io
 
 ## 关于index.html
 这个页面是网站的门面。
-目前还没有设置自动跳转
+3.5秒后会跳转到首页
 
 ## 关于mainpage.html
 这个才是真正的主页..
-主页一开始尝试用markdown写过，但是后来还是尝试直接用html写了。旧的主页还是index.html
 
 ## 关于news.html
 这个页面是LSG的新闻发布页面。
-这个页面是用markdown写的，然后导出成html，感谢<a href = "https://github.com/yzhang-gh/vscode-markdown">Markdown All in One</a>项目！
-如果后续更新准备不用md导出news页面了那就把news.md归档吧。、
+这个页面是用markdown写的，然后导出成html，感谢<a href = "https://github.com/yzhang-gh/vscode-markdown">Markdown All in One</a>项目!
 
 ## 关于图片
 图片目前都放在了index.files文件夹内，但是直接用github的服务器的话会出现国内的浏览器加载不出图像的情况。
