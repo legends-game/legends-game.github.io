@@ -1,3 +1,11 @@
+## 2022年8月7日
+* 玔堷pubg定级到黄金了，会有永久的降落伞皮和一个赛季的ID框框
+<div style='text-align:center;'>
+<img src = "https://img.gejiba.com/images/49a00c327aa536aa490813a7f17997eb.jpg" width = "80%">
+</div>
+
+* 在尝试勾搭淘宝打apex
+
 ## 2022年8月5日
 * 最近在玩PUBG
 * 玔堷可以直播了
