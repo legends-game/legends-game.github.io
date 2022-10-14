@@ -1,3 +1,11 @@
+## 2022年10月14日
+* 虽然很久没更新了不过淘宝pubg也到黄金了
+<div style='text-align:center;'><a href="https://sm.ms/image/kPULh9Oemy3xrQK" target="_blank"><img src="https://s2.loli.net/2022/10/14/kPULh9Oemy3xrQK.png" alt="QQ图片20221014090433.png" width = "80%"></a></div>
+
+* 最近有很多人在玩ai画图..就是那个stable diffusion
+* 淘宝已经变成apex的形状了
+* 守望先锋2出来了，变成了免费游戏，需要肝通行证的那种。
+
 ## 2022年8月7日
 * 玔堷pubg定级到黄金了，会有永久的降落伞皮和一个赛季的ID框框
 <div style='text-align:center;'>
